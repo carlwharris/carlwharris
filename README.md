@@ -1,23 +1,12 @@
 ## About me
 
-Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt). 
+Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), working on:
+
+* Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
+* Detecting context-dependent changes in neural codes in longitudinal neural recording activity
+* Unsupervised classification of animal behavior in video
+
 
 ## Education
 
-I graduated *magna cum laude* from Dartmouth College in June 2021 with a double major in applied mathematics and neuroscience, and a minor in economics. 
-
-
-<!--
-**carlwharris/carlwharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated *magna cum laude* from Dartmouth College in June 2021, with a double major in applied mathematics and neuroscience (high honors) and a minor in economics. I worked on research related to adaptive learning and decision making under uncertainty in [Alireza Soltani's lab](http://ccnl.dartmouth.edu/), and on projects related to animal tracking and behavior classification in [Peter Tse's octpus lab](https://sites.dartmouth.edu/peter/). I was also on the men's [Varsity Lightweight Rowing](https://dartmouthsports.com/sports/rowing) team.
