@@ -1,6 +1,12 @@
+
+[![Website shields.io](https://img.shields.io/badge/Personal%20website%3F-yes-green.svg?style=flat)](https://carlwharris.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=Llwf_dQAAAAJ&hl=en)
+![Twitter Follow](https://img.shields.io/twitter/follow/Carl_W_Harris?style=social)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlwharris/)
 ![](https://komarev.com/ghpvc/?username=carlwharris)
 
 ## About me
+
 
 Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), working on:
 
