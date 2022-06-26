@@ -3,7 +3,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=Llwf_dQAAAAJ&hl=en)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Carl_W_Harris?style=social)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlwharris/)
-![](https://komarev.com/ghpvc/?username=carlwharris)
+<!--![](https://komarev.com/ghpvc/?username=carlwharris)-->
 
 ## About me
 
