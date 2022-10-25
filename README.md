@@ -13,6 +13,7 @@ Current postbaccalaureate IRTA at the National Institutes of Mental Health, in t
 * Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
 * Detecting context-dependent changes in neural codes in longitudinal neural recording activity
 * Unsupervised classification of animal behavior in video
+* Standardizing holographic photostimulation & two-photon data
 
 
 ## Education
