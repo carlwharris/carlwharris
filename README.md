@@ -11,9 +11,9 @@
 Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), working on:
 
 * Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
-* Detecting context-dependent changes in neural codes in longitudinal neural recording activity
-* Unsupervised classification of animal behavior in video
-* Standardizing holographic photostimulation & two-photon data
+* Detecting context-dependent changes in encoding from longitudinal neural recording activity
+* 3D pose estimation & unsupervised classification of animal behavior in video
+* Data sharing & transparency by improving standardization of two-photon and holographic photostimulation archival data formats
 
 
 ## Education
