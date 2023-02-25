@@ -1,19 +1,22 @@
 
+
+
 [![Website shields.io](https://img.shields.io/badge/Personal%20website%3F-yes-green.svg?style=flat)](https://carlwharris.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=Llwf_dQAAAAJ&hl=en)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Carl_W_Harris?style=social)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlwharris/)
+[![GitHub followers](https://img.shields.io/github/followers/carlwharris?style=social)](https://github.com/carlwharris?tab=followers)
 <!--![](https://komarev.com/ghpvc/?username=carlwharris)-->
 
 ## About me
 
 
-Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), working on:
+Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), interested in the applications of machine learning to healthcare and neuroscience. Currently working on:
 
-* Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
-* Detecting context-dependent changes in encoding from longitudinal neural recording activity
-* 3D pose estimation & unsupervised classification of animal behavior in video
-* Data sharing & transparency by improving standardization of two-photon and holographic photostimulation archival data formats
+* **(Applied ML):** Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
+* **(Statistical methods):** Detecting context-dependent changes in neural encoding from longitudinal electrophysiological recordings
+* **(Applied ML):** 3D pose estimation & unsupervised behavior classification of animals in video
+* **(Open science):** Improving standardization of two-photon and holographic photostimulation archival data formats
 
 
 ## Education
