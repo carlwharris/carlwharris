@@ -3,7 +3,7 @@
 
 [![Website shields.io](https://img.shields.io/badge/Personal%20website%3F-yes-green.svg?style=flat)](https://carlwharris.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=flat&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=Llwf_dQAAAAJ&hl=en)
-![Twitter Follow](https://img.shields.io/twitter/follow/Carl_W_Harris?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Carl_W_Harris?style=social)](https://twitter.com/Carl_W_Harris)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlwharris/)
 [![GitHub followers](https://img.shields.io/github/followers/carlwharris?style=social)](https://github.com/carlwharris?tab=followers)
 <!--![](https://komarev.com/ghpvc/?username=carlwharris)-->
