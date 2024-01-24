@@ -13,7 +13,7 @@ First year Ph.D. student at Johns Hopkins University, Department of Biomedical E
 
 ## Previously
 
-Postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), interested in the applications of machine learning to healthcare and neuroscience. Currently working on:
+I spent two years as a postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt). I worked applied projects realted to machine learning to healthcare and neuroscience. In particular:
 
 * **[Applied ML]:** Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
 * **[Stat. methods]:** Detecting context-dependent changes in neural encoding from longitudinal electrophysiological recordings
