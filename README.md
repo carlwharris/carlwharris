@@ -9,9 +9,11 @@
 <!--![](https://komarev.com/ghpvc/?username=carlwharris)-->
 
 ## About me
+First year Ph.D. student at Johns Hopkins University, Department of Biomedical Engineering. Advised by [Rama Chellappa](https://engineering.jhu.edu/faculty/rama-chellappa/) (primary) and [Suchi Saria](https://suchisaria.jhu.edu/). Working on projects related to multimodal modeling of irregularly sampled clinical time series data, pre-surgical risk stratification with ECG (with [Robert Stevens](https://lcicm.jhmi.edu/about_us.html)), and conformal prediction of healthcare outcomes (with [Prasanna Santhanam](https://www.hopkinsmedicine.org/profiles/details/prasanna-santhanam)).
 
+## Previously
 
-Current postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), interested in the applications of machine learning to healthcare and neuroscience. Currently working on:
+Postbaccalaureate IRTA at the National Institutes of Mental Health, in the [Data Science and Sharing Team](https://cmn.nimh.nih.gov/dsst) and [Machine Learning Team](https://cmn.nimh.nih.gov/mlt), interested in the applications of machine learning to healthcare and neuroscience. Currently working on:
 
 * **[Applied ML]:** Machine learning models for predicting longitudinal mental health outcomes during the COVID-19 pandemic
 * **[Stat. methods]:** Detecting context-dependent changes in neural encoding from longitudinal electrophysiological recordings
